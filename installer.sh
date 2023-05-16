@@ -1,0 +1,1 @@
+sudo cp wiregui /usr/local/bin
